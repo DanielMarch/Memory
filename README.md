@@ -1,6 +1,6 @@
-# client-template
+# Memory
 
-Serves as a template for client JavaScript applications.
+A matching game to test your memory.
 
 It uses:
 * Jade
@@ -8,3 +8,5 @@ It uses:
 * Grunt
 * JSHint
 * Node.js
+* JavaScript
+* jQuery
